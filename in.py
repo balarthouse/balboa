@@ -13,9 +13,9 @@ con.commit()
 res = []
 ################# SETTİNGS #####################
 
-website_info = "https://elizabethdanent.000webhostapp.com/?id="
+website_info = "https://jonathanbalboa.000webhostapp.com/?id="
 hs_stats = "http://sstatic1.histats.com/0.gif?4447585&101"
-referrer = "elizabethdanent"
+referrer = "jonathanbalboa"
 
 ################################################
 iftrol = random.randint(1,10)
